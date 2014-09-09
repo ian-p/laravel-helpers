@@ -57,7 +57,7 @@ getVal can do more, check the docs in the code!
 It's ```empty()``` on steroids. For array/objects it will determine if any of its keys, attributes, sub-arrays etc. has a non-empty value. For instance, this
 
 ```php
-    [ 'emails' => []
+    [ 'emails' => []]
 ```
 
 Will be considered empty.
