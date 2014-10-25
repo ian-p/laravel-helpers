@@ -21,7 +21,7 @@ After these changes, your ```composer.json``` file should look like this:
 ```
     'providers' => array(
         ...
-        'Levitated\Notifications\HelpersServiceProvider',
+        'Levitated\Helpers\HelpersServiceProvider',
     ),
 
     'aliases' => array(
